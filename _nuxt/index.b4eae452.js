@@ -1,0 +1,1 @@
+import{T as a}from"./components.e2387fcd.js";import{f as o,o as s,c as n,b as c,w as r,d as l,F as _,a as e}from"./entry.0a964eaf.js";const m=e("section",{class:"wrapper"},[e("h1",{class:"text-4xl text-blue-950"},"Home Page")],-1),f=o({__name:"index",setup(p){return(i,d)=>{const t=a;return s(),n(_,null,[c(t,null,{default:r(()=>[l("Home")]),_:1}),m],64)}}});export{f as default};
