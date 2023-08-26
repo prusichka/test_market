@@ -1,0 +1,1 @@
+import{T as a}from"./components.e551a40b.js";import{_ as o,c as s,b as c,w as n,F as r,a as e,o as l,d as _}from"./entry.3ecd4239.js";const d={},i=e("section",{class:"wrapper"},[e("h1",{class:"text-4xl text-blue-950"},"Home Page")],-1);function m(x,f){const t=a;return l(),s(r,null,[c(t,null,{default:n(()=>[_("Home")]),_:1}),i],64)}const h=o(d,[["render",m]]);export{h as default};

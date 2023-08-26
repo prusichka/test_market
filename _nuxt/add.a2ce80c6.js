@@ -1,0 +1,1 @@
+import{T as a}from"./components.e551a40b.js";import{_ as s,c,b as o,w as n,F as r,a as e,o as d,d as l}from"./entry.3ecd4239.js";const _={},i=e("section",{class:"wrapper"},[e("h1",{class:"text-4xl text-blue-950"},"Add new")],-1);function f(m,p){const t=a;return d(),c(r,null,[o(t,null,{default:n(()=>[l("Add new")]),_:1}),i],64)}const w=s(_,[["render",f]]);export{w as default};
