@@ -16,6 +16,11 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
   modules: [
-    '@nuxtjs/tailwindcss'
-  ]
+    '@nuxtjs/tailwindcss',
+    '@pinia/nuxt'
+  ],
+  nitro: {
+    compressPublicAssets: true,
+    minify: true
+  }
 })
