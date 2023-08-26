@@ -5,6 +5,4 @@
     </section>
 </template>    
 <script setup lang='ts'>
-// const { data: testData } = await useAsyncData('apis', () => $fetch('https://rickandmortyapi.com/api'))
-// https://fakestoreapi.com/docs
 </script>
