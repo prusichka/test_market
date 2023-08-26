@@ -1,5 +1,5 @@
 <template>
     <HeaderComponent/>
     <main><NuxtPage /></main>
-    <FooterComponent/>
+    <!-- <FooterComponent/> -->
 </template>
