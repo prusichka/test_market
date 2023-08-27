@@ -17,7 +17,8 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
   modules: [
     '@nuxtjs/tailwindcss',
-    '@pinia/nuxt'
+    '@pinia/nuxt',
+    '@pinia-plugin-persistedstate/nuxt'
   ],
   nitro: {
     compressPublicAssets: true,

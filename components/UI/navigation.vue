@@ -1,5 +1,5 @@
 <template>
-    <NuxtLink :to='path' class='w-full flex justify-center mx-2'>
+    <NuxtLink :to='path' class='w-full flex justify-center'>
         <button
             :class='[route.path === path ? "bg-gray-900 text-green-300 border-transparent" : "bg-transparent text-green-950"]'
             class="transition-all w-full hover:bg-gray-800 font-semibold hover:text-green-400 py-2 px-4 border border-green-950 hover:border-transparent">
